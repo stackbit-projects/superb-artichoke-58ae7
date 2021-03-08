@@ -1,6 +1,6 @@
 ---
 title: Title Goes Here
-subtitle: lorem-ipsum
+subtitle: Here's an example of a blog post in case anyone doesn't like them
 date: '2021-03-08'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
