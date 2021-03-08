@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: This Is A Big Hero Editing this sucker
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      This is an interesting theme but one has to wonder whether we should just
+      go with Webflow.
     actions:
       - label: Learn More
         url: /features
