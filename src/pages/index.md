@@ -24,10 +24,9 @@ sections:
       - title: Pretty strong editor I have to say.
         image: images/12.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Interesting that editing this isn't inline editing and instead pops up
+          a dialog
         actions:
           - label: Learn More
             url: /features
