@@ -28,7 +28,7 @@ sections:
           Interesting that editing this isn't inline editing and instead pops up
           a dialog
         actions:
-          - label: Learn More
+          - label: Eat me
             url: /features
             style: secondary
             has_icon: true
