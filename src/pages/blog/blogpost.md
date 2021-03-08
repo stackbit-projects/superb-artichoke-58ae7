@@ -13,9 +13,14 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+### This is the title
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Once again we are in a dialog for editing copy - it's just a really interesting choice
 
-- Lorem ipsum
-- dolor sit amet
+*   Bullet 1
+
+*   Bullet 2
+
+*   Bullet 3
+
+It's pretty slick...
